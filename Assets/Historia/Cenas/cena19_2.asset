@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena19_2
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Player volta pensativo para a sala de aula\u2026  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Player deveria intervir\u2026 "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: 66ca95712b82b8c46a2d8490ffa97c8b, type: 3}
+  proxCena: {fileID: 11400000, guid: 996b137ace1c9b641b2ae6c0451055db, type: 2}
+  music: {fileID: 8300000, guid: 0d7517ce781d8f448b3993487af2df96, type: 3}

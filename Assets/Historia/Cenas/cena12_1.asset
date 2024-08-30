@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena12_1
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: 'Player se aproxima da porta e escuta a conversa. '
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Oi... A senhora mandou me chamar? '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Bom dia, Mark...  '
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mandei sim! Queria falar com voc\xEA. Sente-se. "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "T\xE1 bom... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Desde aquela palestra que aconteceu aqui na escola sobre abuso sexual,
+      eu percebi a sua inquieta\xE7\xE3o, como se quisesse falar algo\u2026 "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: Bom...
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "N\xE3o sei se tenho coragem pra falar sobre isso... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Se voc\xEA quiser me contar, se sinta \xE0 vontade. "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Bem... \xE9 que vem acontecendo uma coisa comigo h\xE1 algum tempo... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Sim, entendo... Quer conversar sobre? '
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "J\xE1 faz quase 1 ano que eu venho passando por uma situa\xE7\xE3o com
+      um tio meu...  "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Nesse tempo nunca tive coragem nenhuma pra contar \xE0 minha fam\xEDlia... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark, que situa\xE7\xE3o...  "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Como tudo isso come\xE7ou? Voc\xEA pode me contar? Se voc\xEA se sentir
+      confort\xE1vel, claro. "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Bem... Tudo come\xE7ou quando eu tive que ficar alguns dias na casa dele,
+      porque meu pai tinha sofrido um acidente de carro e minha m\xE3e teve que ficar
+      com ele no hospital.  "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Meu tio come\xE7ou a ter mais contato f\xEDsico comigo, quis me abra\xE7ar,
+      depois come\xE7ou a querer me tocar. No come\xE7o eu achava que era brincadeira
+      e eu deixava pra l\xE1...  "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mas depois de algum tempo ele come\xE7ou a passar dos limites... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Se \xE9 que a senhora me entende. "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Nossa... Voc\xEA pretende falar com seus pais sobre isso?  "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Voc\xEA precisa fazer alguma coisa, n\xE3o deve ficar passando por isso
+      e aguentar tudo calado. "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Tenho medo de tudo que pode acontecer se eu falar...  '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "A rea\xE7\xE3o dos meus pais...  "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Do meu tio...  '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Mas eu quero criar coragem para falar...  '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'A senhora acha que poderia tirar um minuto do seu tempo para tentar explicar
+      isso aos meus pais? '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Claro! Ainda esta semana eu entrarei em contato com seus pais para marcar
+      uma reuni\xE3o com eles e explicar a sua situa\xE7\xE3o e como se sente com
+      tudo isso...  "
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Se precisar de alguma coisa pode contar comigo, Mark...  '
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Sinto muito pelo que aconteceu, espero que tudo se resolva logo. '
+    personagem: {fileID: 11400000, guid: 70bfc41569b5a95438104e4026f7c006, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Obrigado por me ouvir e tentar ajudar, Ana! '
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Nossa... nunca imaginei, agora vou embora antes que ele me veja! '
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: be4ebacb697e3694c9b857014de1ddfb, type: 3}
+  proxCena: {fileID: 11400000, guid: ffc0983e6980bbc47884ab81142da959, type: 2}
+  music: {fileID: 8300000, guid: 18bfc32cc7374b246b76a02de1573252, type: 3}

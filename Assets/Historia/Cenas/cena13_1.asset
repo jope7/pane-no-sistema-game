@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena13_1
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Player deixa a mochila de Ezequiel no ch\xE3o e se dirige para onde estava
+      acontecendo a discuss\xE3o e sai em defesa de Ezequiel. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 0, y: 0}
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 500, y: 0}
+    fx: {fileID: 0}
+  - texto: "Quem voc\xEA pensa que \xE9 pra falar assim com os outros!?  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Desde quando voc\xEA \xE9 assim, Miguelito?"
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 2
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Aonde voc\xEA vai chegar com isso? "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Miguel fica constrangido por ser chamado pelo seu apelido de inf\xE2ncia.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'E fica com mais raiva ainda. '
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Com quem voc\xEA acha que est\xE1 falando? Meu nome \xE9 Miguel, seu
+      ot\xE1rio...  "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "N\xE3o se intrometa onde n\xE3o foi chamado...  "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Cuida da sua vida, ela j\xE1 n\xE3o est\xE1 dif\xEDcil demais j\xE1 que
+      seus pais se separaram? "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Ahh, parece que voc\xEA anda bem informado sobre a minha vida, n\xE9?  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Voc\xEA est\xE1 pensando que \xE9 melhor s\xF3 porque intimida as pessoas
+      pelas suas diferen\xE7as?  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Para de fazer da vida dos outros um inferno e se lembra como a sua est\xE1,
+      se preocupa mais em resolver os seus problemas, e para de ser o motivo da desgra\xE7a
+      da vida dos outros, voc\xEA n\xE3o era assim Miguelito... "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 2
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Miguel escuta em sil\xEAncio. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Vamos Ezequiel! N\xE3o fique calado, deixe que ele sofra as consequ\xEAncias. "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 2
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Player e Ezequiel saem do gin\xE1sio e se dirigem \xE0 sala da coordenadora
+      Ana e relatam tudo que aconteceu."
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: 8cb754edb010cfe4e9ed61a0a6aead96, type: 3}
+  proxCena: {fileID: 11400000, guid: a2d03d7d1209bb749bc432091c645b27, type: 2}
+  music: {fileID: 8300000, guid: fa17378866b57304e9a1ed732090c6e2, type: 3}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: final_bom2
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Ap\xF3s o ocorrido Lisa den\xFAncia Mark aos coordenadores do col\xE9gio,
+      e Mark finalmente lida com as consequ\xEAncias de suas a\xE7\xF5es.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "A coordenadora Ana entra em contato com os pais de Mark e tenta acompanhar
+      o mesmo em uma cl\xEDnica de psicologia.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Depois de um tempo, Lisa, Ezequiel, Miguelito e Player, tentam se curar
+      dos traumas que o bullying trouxe para suas vidas, mas motivados em fazer a
+      diferen\xE7a come\xE7am um projeto anti-Bullying em sua escola. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: FIM.
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: 061898785f6c87a47bdecc3c6c59b25f, type: 3}
+  proxCena: {fileID: 0}
+  music: {fileID: 8300000, guid: c04921f2e1404604f91f5724d56daf04, type: 3}

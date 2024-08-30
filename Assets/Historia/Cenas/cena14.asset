@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena14
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Depois do ocorrido, Player sai da escola pensativo rumo \xE0 sua casa,
+      ao virar a esquina de um mercadinho, j\xE1 pr\xF3ximo a sua casa, se depara
+      com uma cena inesperada.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark estava correndo atr\xE1s de um assaltante, que acabara de roubar
+      a bolsa de uma senhora que havia acabado de sair do mercadinho.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark alcan\xE7a o bandido e recupera a bolsa, mas acaba deixando o meliante
+      escapar.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Ao pegar a bolsa, Mark se dirige \xE0 senhora que esperava preocupada,
+      e entrega a bolsa a mesma.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'A idosa fica muito agradecida.  '
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Player fica admirado com a a\xE7\xE3o de Mark enquanto olhava a situa\xE7\xE3o,
+      mas, quando Mark o percebe fica envergonhado e se retira ligeiramente. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: 88ff3ef3512f9b5499771daf2dae0d04, type: 3}
+  proxCena: {fileID: 11400000, guid: c443bf0dceec5ea4fb96afb4fdd59cd1, type: 2}
+  music: {fileID: 8300000, guid: 5325a9acb363b7440aed0be477d3a6ac, type: 3}

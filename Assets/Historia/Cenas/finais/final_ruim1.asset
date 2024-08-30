@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: final_ruim1
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "ALGO N\xC3O MUITO BOM VAI ACONTECER, MIGUELITO!"
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: CORRE!
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Miguel e Player correm em dire\xE7\xE3o a cena.  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Lisa caminha por tr\xE1s de Mark, coloca a m\xE3o no bolso do casaco
+      e puxa um estilete e antes que Player e Miguel a alcance, ela o acerta no bra\xE7o."
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: ...
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: ee6f477c52e63b34d9826c2be0d86b88, type: 3}
+  proxCena: {fileID: 11400000, guid: 0bbf692b159bf6c40a9671f7272f75f3, type: 2}
+  music: {fileID: 8300000, guid: 5325a9acb363b7440aed0be477d3a6ac, type: 3}

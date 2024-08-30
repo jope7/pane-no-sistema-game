@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena21
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "O que voc\xEA quer conversar comigo? "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 300, y: 0}
+    fx: {fileID: 0}
+  - texto: "Bom... acho que te devo desculpas... n\xE3o devia ter agido daquela maneira
+      com voc\xEA... "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Ent\xE3o...  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Fiquei um pouco chateado com voc\xEA, no come\xE7o das aulas, voc\xEA
+      fingia que nem me conhecia...  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'E depois fez aquilo com o Ezequiel... '
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Eu estava com medo do Mark...  '
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Depois que voc\xEA saiu dessa escola, o Mark apareceu...  "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Ele sempre me tratava com inferioridade e pra mim n\xE3o sofrer mais
+      isso acabei fazendo as mesmas coisas que ele fazia pra n\xE3o sofrer nas m\xE3os
+      dele\u2026 "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Depois que voc\xEA me falou aquelas coisas no gin\xE1sio, eu pensei bem
+      e criei coragem para parar com essas atitudes\u2026 "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "N\xE3o quero mais ser assim...  "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Quero ser diferente...  '
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Voc\xEA acha que podemos ser amigos novamente? "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Nossa...  '
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "N\xE3o sabia disso, mas enfim...  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "N\xF3s podemos recome\xE7ar...  "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Miguel se sente aliviado e continua caminhando com Player at\xE9 que
+      veem algo inesperado. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark est\xE1 parado em um lado da rua e Lisa caminha em sua dire\xE7\xE3o. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Olha, aquela n\xE3o \xE9 a Lisa?  "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: 'Mas...  '
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Oque ela est\xE1 indo ver atr\xE1s do Mark?... "
+    personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Player pensa: \u201CAhh n\xE3o! O que ser\xE1 que a Lisa est\xE1 aprontando?\u201D "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: MEU DEUS!!!
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: bc171279a801ee340a35c29963ab424f, type: 2}
+      spriteIndex: 0
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: ee6f477c52e63b34d9826c2be0d86b88, type: 3}
+  proxCena: {fileID: 0}
+  music: {fileID: 8300000, guid: 5325a9acb363b7440aed0be477d3a6ac, type: 3}

@@ -1,0 +1,4 @@
+repository "Pane no Sistema 02.11.23@unity_59080CAED40A2DDDBFD1@cloud"
+  path "/"
+    br "/main"
+    co "/main"

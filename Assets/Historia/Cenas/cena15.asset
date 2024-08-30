@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena15
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Player olha para Lisa e pensa: \u201CMeu Deus, Lisa n\xE3o parece estar
+      bem, esse comportamento t\xE1 pior do que o dos outros dias..."
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "... Cabe\xE7a baixa entre os bra\xE7os...  "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "... com certeza tem alguma coisa errada.\u201D "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Player se dirige \xE0 Ezequiel. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 300, y: 0}
+    fx: {fileID: 0}
+  - texto: "Ei, mano, a Lisa t\xE1 chorando? "
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Nossa cara... Parece que sim\u2026 "
+    personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: 'Acha que devemos falar com ela? '
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "N\xE3o sei, irm\xE3o...  "
+    personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Acho melhor n\xE3o, ela vai ficar envergonhada na frente da sala inteira.
+      Vamos falar com ela no intervalo. "
+    personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: 'Faz sentido! A gente fala com ela depois. '
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Ezequiel confirma com a cabe\xE7a e sai."
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: c2e1cb6985150134daf3309e90c7b47f, type: 3}
+  proxCena: {fileID: 11400000, guid: 9482d6948c5a94b4d970e6a5986f14b5, type: 2}
+  music: {fileID: 8300000, guid: 3d39f856fc294a340adf71a5432a064d, type: 3}

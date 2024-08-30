@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena3_2
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: Nossa...
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 400, y: 0}
+    fx: {fileID: 0}
+  - texto: "Seria interessante saber um pouco mais sobre Lisa\u2026"
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "O sinal toca e Player sai da sala de aula e caminha em dire\xE7\xE3o
+      ao refeit\xF3rio."
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 9d1b33c8513638b488dfc5dfdc9537a4, type: 2}
+      spriteIndex: 0
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 8300000, guid: c65b25926c642cd4aae9e4aebcc09d79, type: 3}
+  background: {fileID: 21300000, guid: c2e1cb6985150134daf3309e90c7b47f, type: 3}
+  proxCena: {fileID: 11400000, guid: 816bdb39d388c494ab9246305effc924, type: 2}
+  music: {fileID: 8300000, guid: 3d39f856fc294a340adf71a5432a064d, type: 3}

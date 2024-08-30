@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena2
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "Player chega na escola de carro com a sua m\xE3e."
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 8300000, guid: 57e16a2d560333947baa274053b06f47, type: 3}
+  background: {fileID: 21300000, guid: 88ff3ef3512f9b5499771daf2dae0d04, type: 3}
+  proxCena: {fileID: 11400000, guid: f053eef6f8d3344469081507c0efbb43, type: 2}
+  music: {fileID: 0}

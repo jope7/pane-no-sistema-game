@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e288a76cee1fdd1428bb2210a2bc3deb, type: 3}
+  m_Name: cena17
+  m_EditorClassIdentifier: 
+  sentencas:
+  - texto: "J\xE1 se passaram uma semana desde o acontecido e a Lisa n\xE3o apareceu
+      mais. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Todos est\xE3o comentando sobre oque pode ter acontecido com ela e o
+      porqu\xEA dela n\xE3o est\xE1 vindo a escola. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Player e Ezequiel seguem sem not\xEDcias nenhuma dela e j\xE1 est\xE3o
+      come\xE7ando a ficar preocupados. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark est\xE1 diferente, desde o ocorrido com Lisa ele n\xE3o mexeu mais
+      com ningu\xE9m, est\xE1 calado, n\xE3o faz mais as atividades e ningu\xE9m
+      mais o v\xEA na hora do intervalo. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: "Mark se levanta da cadeira e caminha at\xE9 Player. "
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+      spriteIndex: 0
+      tipoAcao: 1
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Oi... \xC9... Eu n\xE3o deveria estar falando com voc\xEA depois do que
+      eu fiz com sua amiga Lisa...  "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+      spriteIndex: 1
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: "Mas ela n\xE3o apareceu mais, e eu queria saber como ela est\xE1... "
+    personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+    acoes: []
+    fx: {fileID: 0}
+  - texto: Player fica alguns segundos pensativo.
+    personagem: {fileID: 11400000, guid: 985baffbee59c9d43988ae0cd03128ad, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+      spriteIndex: 0
+      tipoAcao: 0
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  - texto: ...
+    personagem: {fileID: 11400000, guid: 3498a50f9b7d3994b8d40e148a56695d, type: 2}
+    acoes:
+    - personagem: {fileID: 11400000, guid: 4f168e12a51ad0a4bb9b930e7a569428, type: 2}
+      spriteIndex: 0
+      tipoAcao: 2
+      posicao: {x: 0, y: 0}
+    fx: {fileID: 0}
+  background: {fileID: 21300000, guid: c2e1cb6985150134daf3309e90c7b47f, type: 3}
+  proxCena: {fileID: 11400000, guid: 11b811f96b72da34c9035cad7f8ad208, type: 2}
+  music: {fileID: 8300000, guid: 3d39f856fc294a340adf71a5432a064d, type: 3}

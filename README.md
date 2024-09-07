@@ -1,1 +1,1 @@
-Projeto Unity do jogo Pane no Sistema.
+Projeto Unity do jogo android Pane no Sistema.
